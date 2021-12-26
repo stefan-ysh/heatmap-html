@@ -17,7 +17,7 @@ Yesterday(2021/12/13) I Helped a friend to do a heatmap display interface by usi
 
 ### 3.坐标轴、网格、`visualMap` 等相关设置
 
-### 4.当前只是用来练手的静态页面，完善后将结合 `vue2` 或 `vue3` 进行重构并重新创建仓库，当前仓库不变
+### 4.当前只是用来练手的静态页面，定时器模拟的动态数据，完善后将结合 `vue2` 或 `vue3` 进行重构并重新创建仓库，当前仓库不变
 
 ## 欢迎大家 mark、star、issue
 
